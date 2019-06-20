@@ -1,4 +1,4 @@
-module req
+module github.com/tejainece/req
 
 go 1.12
 
